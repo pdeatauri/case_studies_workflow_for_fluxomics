@@ -1,0 +1,40 @@
+Reaction id,Lower bound,Upper bound,Objective coefficient,Reaction name
+EX_glc__D_e,-0.858,-0.858,0,D-Glucose exchange
+EX_pyr_e,0,0,0,Pyruvate exchange
+addedProcess_pyr_c,0,0,0,
+EX_lac__L_e,1.451,1.451,0,L-Lactate exchange
+ICDHxm,0,0,0,Isocitrate dehydrogenase  NAD 
+ASPTAm,0,0,0,Aspartate transaminase
+EX_asp__L_e,0.0147,0.0147,0,"L-Aspartate exchange, and uptake of asparagine"
+ALATA_Lm,0,0,0,L alanine transaminase  mitochondrial
+EX_ala__L_e,0.0256,0.0256,0,L-Alanine exchange
+ME1m,0,0,0,Malic enzyme  NAD   mitochondrial
+ME2m,0,0,0,Malic enzyme  NADP   mitochondrial
+PEPCKm,0,0,0,Phosphoenolpyruvate carboxykinase (GTP)
+PEPCK_re,0,0,0,Phosphoenolpyruvate carboxykinase (GTP)
+addedProcess_GLNtm,0,0,0,"L-glutamine transport, mitochondrial"
+addedProcess_ICITtm,0,0,0,"Isocitrate transport, mitochondrial"
+addedProcess_PEPtm,0,0,0,"PEP transport, mitochondial"
+PGCD,0,0,0,Phosphoglycerate dehydrogenase
+PSERT,0,0,0,Phosphoserine transaminase
+PSP_L,0,0,0,Phosphoserine phosphatase (L-serine)
+GHMT2r,0,0,0,"Glycine hydroxymethyltransferase, reversible"
+SERD_L,0,0,0,L-serine deaminase
+EX_gly_e,0,0,0,Glycine exchange
+addedProcess_gly_c,0,0,0,
+EX_ser__L_e,0,0,0,L-Serine exchange
+addedProcess_ser__L_c,0,0,0,
+EX_gln__L_e,-0.0912,-0.0912,0,L-Glutamine exchange
+GLUNm,0,0,0,Glutaminase (mitochondrial)
+EX_glu_L_e,-0.0203,-0.0203,0,"L-Glutamate exchange, and uptake of proline, histidne and arginine"
+addedProcess_hdca_c,0,0,0,Hexadecanoate (n-C16:0) exchange
+addedProcess_FASN1_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN2_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN3_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN4_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN5_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN6_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN7_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_SK_accoa_c,0.01716,0.01716,0,Acetyl_CoA utilization
+addedProcess_SK_accoa_m,0,0,0,"extra Acetyl_CoA mitochondrial uptake, produced from beta-oxidation and degradation of amino acids: Ile, Leu, Lys, Phe, Tyr"
+addedProcess_SK_mal__L_m,0,0,0,"extra mitochondrial malate uptake, produced from amino acids: Ile, Met, Phe, Thr, Tyr, Val"

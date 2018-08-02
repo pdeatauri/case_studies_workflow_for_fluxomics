@@ -1,0 +1,7 @@
+Reaction id,Lower bound,Upper bound,Objective coefficient,Reaction name
+EX_glc__D_e,-1.56,-1.56,0,D-Glucose exchange
+EX_glyc_e,0.02964,0.02964,0,Glycerol exchange
+EX_ac_e,0,0,0,
+EX_etoh_e,0.00468,0.00468,0,Ethanol exchange
+SUCD2_u6m,0,0,0,Succinate dehydrogenase  ubiquinone 6   mitochondrial
+ACt2r,0,0,0,
