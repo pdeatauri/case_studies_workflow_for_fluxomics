@@ -1,0 +1,12 @@
+Raw Data File,cells,tracer molecule,labelled positions,abundance,Parameter Value[injection],Parameter Value[Replicate],Factor Value[Incubation time],Metabolite name,CHEBI identifier,atomic positions to the parent molecule/metabolite name,Empirical formula derivatized molecule/fragment,retention(min),m/z monitored,signal intensity,isotopologue,isotologue abundance relative concentration
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Pyruvate,CHEBI:15361,C1-C3,NA,1,1,1,pyr_13C0,58.1
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Pyruvate,CHEBI:15361,C1-C3,NA,1,1,1,pyr_13C1,2.5
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Pyruvate,CHEBI:15361,C1-C3,NA,1,1,1,pyr_13C2,1.3
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Pyruvate,CHEBI:15361,C1-C3,NA,1,1,1,pyr_13C3,38
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C0,31.2
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C1,8.5
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C2,31
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C3,12.9
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C4,10
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C5,5.2
+NA,PDAC cell line PANC-1 cells,[U-13C]-Glucose,"1,1,1,1,1,1",100,1,1,10,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C6,1.2

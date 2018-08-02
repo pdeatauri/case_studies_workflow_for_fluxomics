@@ -1,0 +1,19 @@
+Raw Data File,cells,tracer molecule,labelled positions,abundance,Parameter Value[injection],Parameter Value[Replicate],Factor Value[Incubation time],Metabolite name,CHEBI identifier,atomic positions to the parent molecule/metabolite name,"Empirical formula derivatized molecule,fragment",retention(min),m/z monitored,signal intensity,isotopologue,isotologue abundance relative concentration
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Aspartate,CHEBI:29991,C1-C4,NA,1,1,1,Asp_13C0,93.2244951
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Aspartate,CHEBI:29991,C1-C4,NA,1,1,1,Asp_13C1,3.5165929
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Aspartate,CHEBI:29991,C1-C4,NA,1,1,1,Asp_13C2,1.384746
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Aspartate,CHEBI:29991,C1-C4,NA,1,1,1,Asp_13C3,1.3567253
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Aspartate,CHEBI:29991,C1-C4,NA,1,1,1,Asp_13C4,0.5174407
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glutamate,CHEBI:29985,C1-C5,NA,1,1,1,Glu_13C0,63.4336627
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glutamate,CHEBI:29985,C1-C5,NA,1,1,1,Glu_13C1,4.8785502
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glutamate,CHEBI:29985,C1-C5,NA,1,1,1,Glu_13C2,17.482263
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glutamate,CHEBI:29985,C1-C5,NA,1,1,1,Glu_13C3,4.5062977
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glutamate,CHEBI:29985,C1-C5,NA,1,1,1,Glu_13C4,5.882498
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glutamate,CHEBI:29985,C1-C5,NA,1,1,1,Glu_13C5,3.8167285
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glycine,CHEBI:15428,C1-C2,NA,1,1,1,Gly_13C0,87.8715517
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glycine,CHEBI:15428,C1-C2,NA,1,1,1,Gly_13C1,1.7326619
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Glycine,CHEBI:15428,C1-C2,NA,1,1,1,Gly_13C2,10.3957863
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Serine,CHEBI:17115,C1-C3,NA,1,1,1,Ser_13C0,66.9845491
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Serine,CHEBI:17115,C1-C3,NA,1,1,1,Ser_13C1,11.7675702
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Serine,CHEBI:17115,C1-C3,NA,1,1,1,Ser_13C2,8.4567029
+NA,CHO-K1 cell line,[U-13C]-Glucose,"1,1,1,1,1,1",50,1,1,72,Serine,CHEBI:17115,C1-C3,NA,1,1,1,Ser_13C3,12.7911778

@@ -1,0 +1,19 @@
+Raw Data File,cells,tracer molecule,labelled positions,abundance,Parameter Value[injection],Parameter Value[Replicate],Factor Value[Incubation time],Metabolite name,CHEBI identifier,atomic positions to the parent molecule/metabolite name,Empirical formula derivatized molecule/fragment,retention(min),m/z monitored,signal intensity,isotopologue,isotologue abundance relative concentration
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Alanine,CHEBI:16977,C1-C3,NA,1,1,1,ala_13C0,44.5
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Alanine,CHEBI:16977,C1-C3,NA,1,1,1,ala_13C1,35.3
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Alanine,CHEBI:16977,C1-C3,NA,1,1,1,ala_13C2,3.5
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Alanine,CHEBI:16977,C1-C3,NA,1,1,1,ala_13C3,16.6
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Alanine,CHEBI:16977,C2-C3,NA,1,1,1,ala_13C0,45.7
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Alanine,CHEBI:16977,C2-C3,NA,1,1,1,ala_13C1,35.7
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Alanine,CHEBI:16977,C2-C3,NA,1,1,1,ala_13C2,18.6
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Serine,CHEBI:17822,C2-C3,NA,1,1,1,ser_13C0,45.8
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Serine,CHEBI:17822,C2-C3,NA,1,1,1,ser_13C1,38.3
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Serine,CHEBI:17822,C2-C3,NA,1,1,1,ser_13C2,15.9
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Threonine,CHEBI:16857,C1-C4,NA,1,1,1,thr_13C0,29.8
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Threonine,CHEBI:16857,C1-C4,NA,1,1,1,thr_13C1,35.6
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Threonine,CHEBI:16857,C1-C4,NA,1,1,1,thr_13C2,17.3
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Threonine,CHEBI:16857,C1-C4,NA,1,1,1,thr_13C3,13.8
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Threonine,CHEBI:16857,C1-C4,NA,1,1,1,thr_13C4,3.5
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Tyrosine,CHEBI:17895,C1-C2,NA,1,1,1,tyr_13C0,78.4
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Tyrosine,CHEBI:17895,C1-C2,NA,1,1,1,tyr_13C1,4.5
+NA,E coli K12 MG1655 ,[1-13C]-Glucose/[U-13C]-Glucose,"1,0,0,0,0,0/1,1,1,1,1,1",80/20,1,1,6.5,Tyrosine,CHEBI:17895,C1-C2,NA,1,1,1,tyr_13C2,17.1

@@ -1,0 +1,38 @@
+Reaction id,Lower bound,Upper bound,Objective coefficient,Reaction name
+EX_glc__D_e,-4.153,-3.267,0,D-Glucose exchange
+EX_pyr_e,0.0214,0.0454,0,Pyruvate exchange
+EX_lac__L_e,2.612,3.204,0,L-lactate dehydrogenase
+G6PDH2r,0,0,0,Glucose 6-phosphate dehydrogenase
+PGL,0,0,0,6-phosphogluconolactonase
+GND,0,0,0,Phosphogluconate dehydrogenase
+RPE,0,0,0,Ribulose 5-phosphate 3-epimerase
+RPI,0,0,0,Ribose-5-phosphate isomerase
+TKT1,0,0,0,Transketolase
+TKT2,0,0,0,Transketolase
+TALA,0,0,0,Transaldolase
+ICDHym,0,0,0,Isocitrate dehydrogenase  NADP 
+FUM,0,0,0,Fumarase
+EX_asp__L_e,-0.956,-0.238,0,"L-Aspartate exchange, and uptake of asparagine"
+EX_ala__L_e,0.466,0.522,0,L-Alanine exchange
+ME1m,0,0,0,Malic enzyme  NAD   mitochondrial
+ME2m,0,0,0,Malic enzyme  NADP   mitochondrial
+PEPCKm,0,0,0,Phosphoenolpyruvate carboxykinase (GTP)
+PEPCK_re,0,0,0,Phosphoenolpyruvate carboxykinase (GTP)
+addedProcess_GLNtm,0,0,0,"L-glutamine transport, mitochondrial"
+addedProcess_PEPtm,0,0,0,"PEP transport, mitochondial"
+EX_gly_e,0.314,0.384,0,Glycine exchange
+EX_ser__L_e,-0.525,-0.343,0,L-Serine exchange
+EX_gln__L_e,-0.736,-0.592,0,L-Glutamine exchange
+GLUNm,0,0,0,Glutaminase (mitochondrial)
+EX_glu_L_e,-0.225,0.107,0,"L-Glutamate exchange, and uptake of proline, histidne and arginine"
+addedProcess_hdca_c,0,0,0,Hexadecanoate (n-C16:0) exchange
+addedProcess_FASN1_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN2_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN3_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN4_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN5_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN6_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN7_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_SK_accoa_c,0.391,0.391,0,Acetyl_CoA utilization
+addedProcess_SK_accoa_m,-1.048,-0.322,0,"extra Acetyl_CoA mitochondrial uptake, produced from beta-oxidation and degradation of amino acids: Ile, Leu, Lys, Phe, Tyr"
+addedProcess_SK_mal__L_m,-1.086,-0.148,0,"extra mitochondrial malate uptake, produced from amino acids: Ile, Met, Phe, Thr, Tyr, Val"

@@ -1,0 +1,53 @@
+Raw Data File,cells,tracer molecule,labelled positions,abundance,Parameter Value[injection],Parameter Value[Replicate],Factor Value[Incubation time],Metabolite name,CHEBI identifier,atomic positions to the parent molecule/metabolite name,Empirical formula derivatized molecule/fragment,retention(min),m/z monitored,signal intensity,isotopologue,isotologue abundance relative concentration
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C0,88.2
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C1,2.6
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C2,7.8
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C3,0.4
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C4,1.7
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C0,91.7
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C1,4
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C2,5.1
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C3,0
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C4,0
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C0,74.8
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C1,3.9
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C2,19.2
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C3,1
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C4,1.4
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C5,0
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C6,0
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Adenosine-monophosphate,CHEBI:16027 ,C1-C5,NA,1,1,1,amp_13C0,51.7
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Adenosine-monophosphate,CHEBI:16027 ,C1-C5,NA,1,1,1,amp_13C1,30.6
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Adenosine-monophosphate,CHEBI:16027 ,C1-C5,NA,1,1,1,amp_13C2,12.2
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Adenosine-monophosphate,CHEBI:16027 ,C1-C5,NA,1,1,1,amp_13C3,4.5
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Adenosine-monophosphate,CHEBI:16027 ,C1-C5,NA,1,1,1,amp_13C4,0
+NA,A549 cell,"[1,2-13C]-Glucose","1,1,0,0,0,0",50,1,1,1,Adenosine-monophosphate,CHEBI:16027 ,C1-C5,NA,1,1,1,amp_13C5,0
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C0,64.3
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C1,4.2
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C2,9.1
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C3,5.9
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Malate,CHEBI:25115 ,C1-C4,NA,1,1,1,mal_13C4,19.1
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C0,59.5
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C1,2.8
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C2,1.9
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C3,9.7
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C4,1.8
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C5,26.4
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C0,58.2
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C1,3.2
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C2,3.5
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C3,9.3
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C4,1.1
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Glutamate,CHEBI:18237,C1-C5,NA,1,1,1,glu_13C5,28.3
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C0,63.5
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C1,3.8
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C2,6.6
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C3,8.3
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,1,1,N-acetylaspartate,CHEBI:21547,C1-C4,NA,1,1,1,naa_13C4,18.3
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C0,61.6
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C1,4.8
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C2,9.1
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C3,6.1
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C4,15
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C5,4.2
+NA,A549 cell,[U-13C]-Glutamine,"1,1,1,1,1",50,1,2,1,Citrate,CHEBI:16947,C1-C6,NA,1,1,1,cit_13C6,0

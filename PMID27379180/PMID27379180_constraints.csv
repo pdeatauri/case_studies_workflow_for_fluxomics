@@ -1,0 +1,25 @@
+Reaction id,Lower bound,Upper bound,Objective coefficient,Reaction name
+EX_glc__D_e,-1,0,0,D-Glucose exchange
+EX_pyr_e,0.16,0.16,0,Pyruvate exchange
+EX_lac__L_e,0.97,0.97,0,L-Lactate exchange
+EX_asp__L_e,0,0,0,"L-Aspartate exchange, and uptake of asparagine"
+EX_ala__L_e,0,0,0,L-Alanine exchange
+EX_gly_e,0,0,0,Glycine exchange
+EX_ser__L_e,0,0,0,L-Serine exchange
+EX_gln__L_e,-0.86,-0.86,0,L-Glutamine exchange
+EX_glu_L_e,0,0,0,"L-Glutamate exchange, and uptake of proline, histidne and arginine"
+addedProcess_glu_L_c,0,0,0,
+addedProcess_hdca_c,0,0,0,Hexadecanoate (n-C16:0) exchange
+addedProcess_FASN1_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN2_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN3_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN4_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN5_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN6_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_FASN7_c,0,0,0,Synthesis of palmitate (C16:0)
+addedProcess_SK_accoa_c,0,0,0,"Acetyl_CoA mitochondrial uptake, produced from beta-oxidation and degradation of amini acids (Ile, Leu, Lys, Phe, Tyr)"
+addedProcess_SK_accoa_m,0,0,0,"extra Acetyl_CoA mitochondrial uptake, produced from beta-oxidation and degradation of amino acids: Ile, Leu, Lys, Phe, Tyr"
+addedProcess_SK_mal__L_m,0,0,0,"extra mitochondrial malate uptake, produced from amino acids: Ile, Met, Phe, Thr, Tyr, Val"
+ICDHym,0,0,0,Isocitrate dehydrogenase  NADP 
+ICDHyr,0,0,0,Isocitrate dehydrogenase (NADP)
+ME2m,0,0,0,Malic enzyme  NADP   mitochondrial
